@@ -15,7 +15,8 @@ Torque Thingy is a tool designed for calculating torques and ensuring they adher
 **User-Friendly Output:** Neatly resents all results and calculations in a simple, easy-to-understand format.
 
 ## Demo
-Check [demo](https://torque.glitch.me/)
+Check [demo](https://torque.glitch.me/).
+![image](https://github.com/user-attachments/assets/7c08fc33-de05-4c7e-8bc0-74e3ac9d99ca)
 
 ## Installation
 Clone the repository:
