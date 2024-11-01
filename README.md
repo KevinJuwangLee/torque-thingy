@@ -1,4 +1,5 @@
 # Torque Thingy
+_Created in 2021_
 Torque Thingy is a tool designed for calculating torques and ensuring they adhere to balance and stability restrictions, such as the 20% Rule. Created for a 9th-grade Physics and Engineering class, this project simulates the calculations necessary for designing balanced mobiles or other systems involving torque and leverage.
 
 ## How It Works
